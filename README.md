@@ -10,7 +10,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <h2 align="left">CSS</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<p align="left"> <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
 </p>
 
