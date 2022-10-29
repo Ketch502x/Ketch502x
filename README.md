@@ -5,9 +5,8 @@
 <div align="center"> <a href="https://github.com/Ketch502x"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ketch502x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketch502x&show_icons=true&locale=en&layout=compact" alt="Ketch502x" /></p> 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Favorite languages :</h3>
 
 <h2 align="left">CSS</h3>
 <p align="left"> <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> 
@@ -28,3 +27,7 @@
 <p align="left"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> 
 </a> </p>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketch502x&show_icons=true&locale=en&layout=compact" alt="Ketch502x" /></p> 
+
