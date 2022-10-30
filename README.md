@@ -2,9 +2,7 @@
 ------
 ### Nothing to do :v
 
-
-<div align="center"> <a href="https://github.com/Ketch502x"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ketch502x&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> 
-
+> 
 <p>
 
 ------
@@ -31,5 +29,12 @@
 </a> </p>
 
 ------
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketch502x&show_icons=true&locale=en&layout=compact" alt="Ketch502x" /></p> 
+## Top Repositories
+<a href="https://github.com/Ketch502x/LonelyBot"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ketch502x&repo=LonelyBot&theme=buefy" /> 
+</a>
 
+------
+<div align="center"> <a href="https://github.com/Ketch502x"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ketch502x&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketch502x&show_icons=true&locale=en&layout=compact" alt="Ketch502x" /></p> 
