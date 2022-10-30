@@ -1,9 +1,8 @@
 
 ------
-### Nothing to do :v
+### Nothing to do 
 
-> 
-<p>
+> I am Trustworthy :)
 
 ------
 <h3 align="left">Favorite languages :</h3>
