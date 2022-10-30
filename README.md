@@ -31,7 +31,7 @@
 ------
 ## Top Repositories
 <a href="https://github.com/Ketch502x/LonelyBot"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ketch502x&repo=LonelyBot&theme=buefy" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ketch502x&repo=LonelyBot&theme=transparent" /> 
 </a>
 
 ------
