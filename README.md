@@ -2,7 +2,7 @@
 ------
 ### Nothing to do 
 
-> I am Trustworthy :)
+> Ok?
 
 ------
 <h3 align="left">Favorite languages :</h3>
