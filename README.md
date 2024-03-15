@@ -39,4 +39,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketch502x&show_icons=true&theme=transparent&locale=en&layout=compact" alt="Ketch502x" /></p> 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ketch502x)](https://github.com/anuraghazra/github-readme-stats)
+[![ketch502x WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ketch502x)](https://github.com/ketch502x/readme-stats)
